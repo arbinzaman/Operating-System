@@ -65,7 +65,7 @@ process_scheduling() {
 }
 
 # Main function
-studentID="2125051016"
+studentID="2125051006"
 uniqueID=$(calculate_unique_id "$studentID")
 echo "Unique ID based on Student ID ($studentID): $uniqueID"
 
